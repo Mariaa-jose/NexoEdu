@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../NexoEdu/css/geral.css">
+    <link rel="stylesheet" href="../NexoEdu/css/aluno.css">
+    <link rel="stylesheet" href="../NexoEdu/css/atividades.css">
+</head>
+<body>
+    <div id="formLogin">
+
+    <input
+        type="email"
+        id="email"
+        placeholder="E-mail"
+    >
+
+    <input
+        type="password"
+        id="senha"
+        placeholder="Senha"
+    >
+
+    <button type="submit">
+        Entrar
+    </button>
+
+    </div>
+
+    <div id="formAtividade">
+
+    <input
+        id="titulo"
+        placeholder="Titulo da atividade"
+    >
+
+    <select id="disciplina">
+        <option value="">Selecione uma disciplina</option>
+        <option>Portugues</option>
+        <option>Matematica</option>
+        <option>Historia</option>
+        <option>Ciencias</option>
+    </select>
+
+    <textarea
+        id="descricao"
+        placeholder="Descricao da atividade">
+    </textarea>
+
+    <input
+        type="date"
+        id="dataEntrega"
+    >
+
+    <button type="submit">
+        Salvar
+    </button>
+
+    </div>
+
+<script src="js/login.js"></script>
+<script src="js/cadastro.js"></script>
+<script src="js/atividades.js"></script>
+</body>
+</html>

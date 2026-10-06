@@ -1,0 +1,20 @@
+.dashboard {
+    max-width: 500px;
+    margin: auto;
+    padding: 25px 20px 80px;
+}
+
+.card-entrega {
+    background: #c9c0eb;
+    padding: 18px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.atividade {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+    align-items: center;
+}

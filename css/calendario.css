@@ -1,0 +1,16 @@
+.calendario {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.calendario table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.calendario td,
+.calendario th {
+    padding: 8px;
+}

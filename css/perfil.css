@@ -1,0 +1,20 @@
+.perfil {
+    max-width: 500px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+.perfil-avatar {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    border-radius: 50%;
+    background: #edeaf8;
+}
+
+.opcao {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
+}

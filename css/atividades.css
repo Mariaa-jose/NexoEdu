@@ -1,0 +1,25 @@
+.formAtividade {
+    max-width: 500px;
+    margin: auto;
+    padding: 30px 20px;
+    align-items: center;
+}
+
+.formAtividade input,
+.formAtividade select,
+.formAtividade textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.botao-salvar {
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 20px;
+    background: #7560e8;
+    color: white;
+}

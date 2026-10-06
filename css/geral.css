@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #171717;
+    background-color: #cfc6f3;
+}
+
+div {
+    justify-content: center;
+}
+
+:root {
+    --roxo: #7560e8;
+    --roxo-claro: #c9c0eb;
+    --branco: #fff;
+    --cinza: #777;
+}
+
+button {
+    cursor: pointer;
+}

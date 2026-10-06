@@ -1,0 +1,27 @@
+.login {
+    width: 400px;
+    min-height: 100vh;
+    margin: auto;
+    padding: 60px 30px;
+    background: rgb(253, 253, 253);
+}
+
+.login h1 {
+    font-size: 24px;
+}
+
+.login input {
+    width: 100%;
+    padding: 14px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+}
+
+.login button {
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 20px;
+    background: #d9d5e7;
+    font-weight: bold;
+}

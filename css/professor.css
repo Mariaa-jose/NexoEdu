@@ -1,0 +1,12 @@
+.professor {
+    max-width: 600px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+.turma {
+    background: white;
+    padding: 20px;
+    margin: 12px 0;
+    border-radius: 10px;
+}

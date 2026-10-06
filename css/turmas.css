@@ -1,0 +1,23 @@
+.turmas {
+    max-width: 600px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+.turma {
+    display: flex;
+    align-items: center;
+    padding: 18px;
+    margin-bottom: 12px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.turma-cor {
+    width: 35px;
+    height: 35px;
+    margin-right: 12px;
+    border-radius: 8px;
+    background: #c9c0eb;
+}
